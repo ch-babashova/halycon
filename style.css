@@ -2,7 +2,7 @@ html,body{
 overflow-x: hidden;
 }
 #header{
-background-image: url("../img/hero-bg.jpg");
+background-image: url("img/hero-bg.jpg");
 width: 100%;
 padding-bottom: 250px;
 background-size: 100%;
@@ -108,7 +108,7 @@ padding: 100px;
 }
 /*profsnl section bitdi*/
 #problems{
-background-image: url("../img/plants-bg.jpg");
+background-image: url("img/plants-bg.jpg");
 background-size: cover;
 text-align: center;
 color: white;
@@ -206,7 +206,7 @@ margin-top: 20px;
 }
 /*team section bitdi*/
 #loop{
-background-image: url("../img/keyboard-bg.jpg");
+background-image: url("img/keyboard-bg.jpg");
 width: 100%;
 padding-bottom: 120px;
 background-attachment: fixed;
